@@ -4,6 +4,8 @@
 
 # .github
 
+### *We build the tools we wished existed.*
+
 The central repository for the Stux.Dev GitHub organization configuration and profile settings.
 
 ## Overview
