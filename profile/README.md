@@ -18,17 +18,17 @@ We build and maintain free, ad-free, no-account web tools and utilities — no a
 
 Stux.Dev exists to build small, useful, free tools without the ads, accounts, or trackers that usually come with them.
 
-### Our Projects
+### Our Tools
 
-| Project | What it is |
+| Tool | What it is |
 |---|---|
-| 🛠️ [Stuxs.Tools](https://github.com/StuxDev/Stuxs.Tools) | A single-page-per-tool collection of free browser utilities — network diagnostics, image processing, text manipulation, format converters, and more. |
-| ⬇️ [Downl.one](https://github.com/StuxDev/Downl.one) | A media downloader — paste a link, get video or audio back, in the best available quality. |
-| 🖼️ [AutoScroll](https://github.com/StuxDev/AutoScroll) | A clean, auto-scrolling image gallery for Reddit. |
+| 🛠️&nbsp;[Stuxs.Tools](https://github.com/StuxDev/Stuxs.Tools) | A single-page-per-tool collection of free browser utilities — network diagnostics, image processing, text manipulation, format converters, and more. |
+| ⬇️&nbsp;[Downl.one](https://github.com/StuxDev/Downl.one) | A media downloader — paste a link, get video or audio back, in the best available quality. |
+| 🖼️&nbsp;[AutoScroll](https://github.com/StuxDev/AutoScroll) | A clean, auto-scrolling image gallery for Reddit. |
 
 ### Get Involved
 
-1. **Explore our projects**: See the table above, or check out our repositories to see what we're building.
+1. **Explore our tools**: See the table above, or check out our repositories to see what we're building.
 2. **Follow us on GitHub**: Stay updated on our latest releases and updates.
 
 ### Contact Us
