@@ -28,11 +28,23 @@ Stux.Dev exists to build small, useful, free tools without the ads, accounts, or
 
 ### Our Labs Projects
 
+<a href="https://labs.stux.dev"><img src="https://global.media.stux.dev/labs/logo.png" height="48" alt="Stux.Dev Labs"></a>
+
 Smaller, experimental projects from [Stux.Dev Labs](https://labs.stux.dev).
 
 | Project | What it is |
 |---|---|
+| 🧪&nbsp;[Stux.Dev Labs](https://labs.stux.dev) | The home of every Labs experiment: a registry of small demos, toys and prototypes, each with a live preview. |
 | 🖼️&nbsp;[AutoScroll](https://github.com/StuxDev/AutoScroll) | A clean, auto-scrolling image gallery for Reddit. |
+
+### Service Status
+
+[![Stux.Dev status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FStuxDev%2FStatus%2Fmain%2Fdata%2Fsummary.json&query=%24.status&label=status&style=for-the-badge)](https://status.stux.dev)
+
+See [status.stux.dev](https://status.stux.dev) for every service's live status and uptime history. The table below is refreshed hourly by [GitHup](https://githup.stux.group).
+
+<!-- githup:start -->
+<!-- githup:end -->
 
 ### Get Involved
 

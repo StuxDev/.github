@@ -5,6 +5,12 @@ All notable changes to Stux.Dev's `.github` organization repository are document
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.3.0
+
+### Added
+- A **Service Status** section in `profile/README.md` with a live status badge and a status table for every Stux.Dev service (group, status, uptime and response time, linking to the new [status.stux.dev](https://status.stux.dev)), kept up to date hourly by the new `.github/workflows/status.yml` using GitHup's `readme` mode and the data in `StuxDev/Status`
+- Stux.Dev Labs itself listed in "Our Labs Projects" in `profile/README.md`, linking to [labs.stux.dev](https://labs.stux.dev) (its repository is private), with the Stux.Dev Labs logo from `https://global.media.stux.dev/labs/logo.png` above the section
+
 ## v1.2.0
 
 ### Added

@@ -16,6 +16,8 @@ This repository contains the organization-wide configuration files for the Stux.
 
 - **Profile** — the public org profile shown at [github.com/StuxDev](https://github.com/StuxDev) (`profile/README.md`)
 - **Community Files** — contributing guidelines and other org-wide defaults
+- **Service Status table** — `.github/workflows/status.yml` refreshes the table between the `<!-- githup:start -->` / `<!-- githup:end -->` markers in `profile/README.md` every hour with [GitHup](https://githup.stux.group)'s `readme` mode, from the data in [StuxDev/Status](https://github.com/StuxDev/Status) ([status.stux.dev](https://status.stux.dev)); don't edit inside the markers
+- **Metrics** — `.github/workflows/generateMetrics.yml` renders the "Our Activity" image
 
 ## How It Works
 
