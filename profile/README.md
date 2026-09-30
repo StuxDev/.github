@@ -25,6 +25,7 @@ Stux.Dev exists to build small, useful, free tools without the ads, accounts, or
 | 🛠️&nbsp;[Stuxs.Tools](https://github.com/StuxDev/Stuxs.Tools) | A single-page-per-tool collection of free browser utilities — network diagnostics, image processing, text manipulation, format converters, and more. |
 | ⬇️&nbsp;[Downl.one](https://github.com/StuxDev/Downl.one) | A media downloader — paste a link, get video or audio back, in the best available quality. |
 | 🖼️&nbsp;[AutoScroll](https://github.com/StuxDev/AutoScroll) | A clean, auto-scrolling image gallery for Reddit. |
+| 🔗&nbsp;[Sm.lol](https://sm.lol) | An all-in-one linking service — short links, bio pages, QR codes, vCard links, and file links. |
 
 ### Get Involved
 

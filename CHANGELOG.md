@@ -5,6 +5,11 @@ All notable changes to Stux.Dev's `.github` organization repository are document
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.1.0
+
+### Added
+- Sm.lol added to the "Our Tools" table in `profile/README.md`, as it is a Stux.Dev service. It has no public repository, so its entry links to [sm.lol](https://sm.lol) directly.
+
 ## v1.0.2
 
 ### Changed
