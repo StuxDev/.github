@@ -50,14 +50,14 @@ See [status.stux.dev](https://status.stux.dev) for every service's live status a
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| | [Stux.Dev](https://stux.dev/) | Up | 100.00% | 100.00% | 100.00% | 439 ms |
-| | [Stux.Dev Media CDN](https://global.media.stux.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 287 ms |
-| Services | [Stuxs.Tools](https://stuxs.tools/) | Up | 100.00% | 90.67% | 90.67% | 631 ms |
-| Services | [Downl.one](https://downl.one/api/health.php) | Up | 100.00% | 66.94% | 66.94% | 1649 ms |
-| Services | [Sm.lol](https://sm.lol/) | Up | 88.88% | 88.13% | 88.13% | 338 ms |
-| Services | [Sm.lol Certificates](https://tiny1.servers.uk.stux.cloud/certificates-ok.txt) | Up | 100.00% | 100.00% | 100.00% | 437 ms |
-| Labs | [Stux.Dev Labs](https://labs.stux.dev/) | Up | 100.00% | 100.00% | 100.00% | 621 ms |
-| Labs | [AutoScroll](https://autoscroll.stux.dev/) | Up | 100.00% | 100.00% | 100.00% | 589 ms |
+| | [Stux.Dev](https://stux.dev/) | Up | 100.00% | 100.00% | 100.00% | 419 ms |
+| | [Stux.Dev Media CDN](https://global.media.stux.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 281 ms |
+| Services | [Stuxs.Tools](https://stuxs.tools/) | Up | 100.00% | 91.12% | 91.12% | 594 ms |
+| Services | [Downl.one](https://downl.one/api/health.php) | Up | 100.00% | 68.54% | 68.54% | 1629 ms |
+| Services | [Sm.lol](https://sm.lol/) | Up | 81.39% | 86.29% | 86.29% | 329 ms |
+| Services | [Sm.lol Certificates](https://tiny1.servers.uk.stux.cloud/certificates-ok.txt) | Up | 100.00% | 100.00% | 100.00% | 416 ms |
+| Labs | [Stux.Dev Labs](https://labs.stux.dev/) | Up | 100.00% | 100.00% | 100.00% | 595 ms |
+| Labs | [AutoScroll](https://autoscroll.stux.dev/) | Up | 100.00% | 100.00% | 100.00% | 570 ms |
 <!-- githup:end -->
 
 ### Get Involved
