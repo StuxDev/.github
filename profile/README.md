@@ -46,18 +46,18 @@ See [status.stux.dev](https://status.stux.dev) for every service's live status a
 <!-- githup:start -->
 <!-- This table is written by GitHup (https://github.com/StuxGroup/GitHup); edits here are overwritten. -->
 
-**Partial outage** · [Live status page](https://status.stux.dev/)
+**All systems operational** · [Live status page](https://status.stux.dev/)
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| | [Stux.Dev](https://stux.dev/) | Up | 100.00% | 100.00% | 100.00% | 613 ms |
-| | [Stux.Dev Media CDN](https://global.media.stux.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 260 ms |
-| Services | [Stuxs.Tools](https://stuxs.tools/) | **Down** | 77.27% | 93.48% | 98.46% | 9404 ms |
-| Services | [Downl.one](https://downl.one/api/health.php) | Up | 100.00% | 100.00% | 99.40% | 1646 ms |
-| Services | [Sm.lol](https://sm.lol/) | Up | 90.90% | 90.80% | 89.01% | 333 ms |
-| Services | [Sm.lol Certificates](https://tiny1.servers.uk.stuxedo.net/certificates-ok.txt) | Up | 100.00% | 100.00% | 99.91% | 431 ms |
-| Labs | [Stux.Dev Labs](https://labs.stux.dev/) | Up | 100.00% | 100.00% | 100.00% | 9254 ms |
-| Labs | [AutoScroll](https://autoscroll.stux.dev/) | Up | 100.00% | 100.00% | 100.00% | 618 ms |
+| | [Stux.Dev](https://stux.dev/) | Up | 100.00% | 100.00% | 100.00% | 680 ms |
+| | [Stux.Dev Media CDN](https://global.media.stux.dev/icon.png) | Up | 100.00% | 100.00% | 100.00% | 276 ms |
+| Services | [Stuxs.Tools](https://stuxs.tools/) | Up | 80.55% | 92.62% | 98.36% | 8940 ms |
+| Services | [Downl.one](https://downl.one/api/health.php) | Up | 100.00% | 100.00% | 100.00% | 1663 ms |
+| Services | [Sm.lol](https://sm.lol/) | Up | 100.00% | 92.21% | 89.23% | 364 ms |
+| Services | [Sm.lol Certificates](https://tiny1.servers.uk.stuxedo.net/certificates-ok.txt) | Up | 100.00% | 100.00% | 99.91% | 457 ms |
+| Labs | [Stux.Dev Labs](https://labs.stux.dev/) | Up | 97.22% | 99.59% | 99.91% | 9216 ms |
+| Labs | [AutoScroll](https://autoscroll.stux.dev/) | Up | 100.00% | 100.00% | 100.00% | 649 ms |
 <!-- githup:end -->
 
 ### Get Involved
