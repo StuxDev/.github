@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://global.media.stux.dev/logo.png" height="100" alt="Stux.Dev Logo">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.dev/logo-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.dev/logo-dark.png"><img src="https://global.media.stux.dev/logo-dark.png" height="100" alt="Stux.Dev Logo"></picture>
 </p>
 
 ## Welcome to the Stux.Dev Official GitHub!
 
 ### *We build the tools we wished existed.*
 
-We build and maintain free, ad-free, no-account web tools and utilities — no accounts, no ads, no analytics scripts, no third-party trackers.
+We build and maintain free web tools and utilities at [stux.dev](https://stux.dev): no accounts, no ads, no analytics scripts, no third-party trackers. Every service, tool and template is listed at [services.stux.dev](https://services.stux.dev).
 
 ### Connect with Us!
 
@@ -22,9 +22,11 @@ Stux.Dev exists to build small, useful, free tools without the ads, accounts, or
 
 | Service | What it is |
 |---|---|
-| 🛠️&nbsp;[Stuxs.Tools](https://github.com/StuxDev/Stuxs.Tools) | A single-page-per-tool collection of free browser utilities — network diagnostics, image processing, text manipulation, format converters, and more. |
-| ⬇️&nbsp;[Downl.one](https://github.com/StuxDev/Downl.one) | A media downloader — paste a link, get video or audio back, in the best available quality. |
+| 🛠️&nbsp;[Stuxs.Tools](https://stuxs.tools) | A single-page-per-tool collection of free browser utilities: network diagnostics, image processing, text manipulation, format converters, and more. |
+| ⬇️&nbsp;[Downl.one](https://downl.one) | A media downloader: paste a link, get video or audio back, in the best available quality. |
 | 🔗&nbsp;[Sm.lol](https://sm.lol) | The internet, but smol: short links, bio pages and QR codes people actually click. |
+| 🗂️&nbsp;[Stux.Dev Services](https://services.stux.dev) | Every Stux.Dev service, tool and template in one place, with live status on each card ([repo](https://github.com/StuxDev/Services)). |
+| 💓&nbsp;[Stux.Dev Status](https://status.stux.dev) | Live status and 90-day uptime history for every Stux.Dev service, checked every 5 minutes ([repo](https://github.com/StuxDev/Status)). |
 
 ### Our Labs Projects
 
@@ -35,7 +37,18 @@ Smaller, experimental projects from [Stux.Dev Labs](https://labs.stux.dev).
 | Project | What it is |
 |---|---|
 | 🧪&nbsp;[Stux.Dev Labs](https://labs.stux.dev) | The home of every Labs experiment: a registry of small demos, toys and prototypes, each with a live preview. |
-| 🖼️&nbsp;[AutoScroll](https://github.com/StuxDev/AutoScroll) | A clean, auto-scrolling image gallery for Reddit. |
+| 🖼️&nbsp;[AutoScroll](https://autoscroll.stux.dev) | A clean, auto-scrolling image gallery for Reddit ([repo](https://github.com/StuxDev/AutoScroll)). |
+
+### Our Templates
+
+Open templates the Stux.Dev sites are built from, free to reuse.
+
+| Template | What it is |
+|---|---|
+| ⏳&nbsp;[Stux.Dev Soonpage](https://github.com/StuxDev/soonpage) | A clean and simple coming-soon landing page ([preview](https://soonpage.stux.dev)). |
+| 🔧&nbsp;[Stux.Dev Maintenancepage](https://github.com/StuxDev/maintenancepage) | A maintenance page that keeps visitors informed while a service is being updated ([preview](https://maintenancepage.stux.dev)). |
+| 🪟&nbsp;[Stux.Dev Servicepage](https://github.com/StuxDev/servicepage) | A placeholder for a service that hasn't been set up yet ([preview](https://servicepage.stux.dev)). |
+| ↪️&nbsp;[Stux.Dev GitHub Pages Redirect](https://github.com/StuxDev/stuxdev.github.io) | Redirects a `username.github.io` GitHub Pages site to a custom domain. |
 
 ### Service Status
 
@@ -62,7 +75,7 @@ See [status.stux.dev](https://status.stux.dev) for every service's live status a
 
 ### Get Involved
 
-1. **Explore our tools**: See the tables above, or check out our repositories to see what we're building.
+1. **Explore our tools**: See the tables above or [services.stux.dev](https://services.stux.dev), or check out our public repositories to see what we're building.
 2. **Follow us on GitHub**: Stay updated on our latest releases and updates.
 
 ### Contact Us
@@ -80,5 +93,5 @@ For legal, privacy, or copyright matters, contact [legal@stux.dev](mailto:legal@
 
 Thank you for visiting our profile!
 
-*Built & Maintained by <img src="https://global.media.stux.dev/icon.png" height="14" alt="Stux.Dev" valign="middle"> [Stux.Dev](https://github.com/StuxDev), Hosted by <img src="https://github.com/Stuxedo.png" height="14" alt="Stuxedo" valign="middle"> [Stuxedo](https://stuxedo.com).  
-Stux.Dev is a part of the <img src="https://global.media.stux.group/icon.png" height="14" alt="Stux.Group" valign="middle"> Stux.Group brand of businesses.*
+*Built & Maintained by <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.dev/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.dev/icon-dark.png"><img src="https://global.media.stux.dev/icon-dark.png" height="14" alt="Stux.Dev" valign="middle"></picture> [Stux.Dev](https://github.com/StuxDev), Hosted by <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stuxedo.com/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stuxedo.com/icon-dark.png"><img src="https://global.media.stuxedo.com/icon-dark.png" height="14" alt="Stuxedo" valign="middle"></picture> [Stuxedo](https://stuxedo.com).  
+Stux.Dev is a part of the <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.group/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.group/icon-dark.png"><img src="https://global.media.stux.group/icon-dark.png" height="14" alt="Stux.Group" valign="middle"></picture> Stux.Group Brand of Companies.*
