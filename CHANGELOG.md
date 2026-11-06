@@ -4,6 +4,13 @@ All notable changes to Stux.Dev's `.github` organization repository are document
 
 Each release's sections come in this order: Added, Changed, Fixed, Removed, Security, Deprecated. This project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.06-1
+
+### Added
+
+- A `test` branch. Work happens on `test`, and changes reach `main` only through a pull request from `test`, which needs CI to pass and is reviewed and merged by Leo; release commits and tags are made on `test` and go live when it's merged. CONTRIBUTING has a Branches section, its release steps end by pushing `test` and opening that pull request, and the README's Versioning section says so.
+- `.github/workflows/ci.yml`, which runs `tests/version.sh` on pushes to `main` and `test` and on pull requests.
+
 ## v26.11.06
 
 ### Added
