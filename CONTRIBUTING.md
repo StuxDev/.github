@@ -6,12 +6,15 @@ Thanks for your interest in contributing to this project.
 
 1. Create a feature branch off `main`.
 2. Make focused, well-described commits.
-3. Add your changes under the `[Unreleased]` section of `CHANGELOG.md`.
+3. Describe your changes in a new release entry in `CHANGELOG.md` (see [Versioning](#versioning)).
 4. Open a pull request against `main`.
 
 ## Code Style
 
-Project-specific conventions will be documented here as they're established.
+- Don't edit the Service Status table between `<!-- githup:start -->` and `<!-- githup:end -->` in `profile/README.md`: `.github/workflows/status.yml` rewrites it every hour from [StuxDev/Status](https://github.com/StuxDev/Status).
+- Use each service's full name ("Stux.Dev Status", not "Status"), matching its card on [services.stux.dev](https://services.stux.dev). When a service is added, renamed or retired there, update the profile tables to match.
+- Only link a repository if it's public. Link a private service's website instead.
+- Logos and icons come from the brands' media hosts (`global.media.stux.dev` and so on), as light/dark `<picture>` elements, so they follow GitHub's theme.
 
 ## Versioning
 

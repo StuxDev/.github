@@ -2,8 +2,28 @@
 
 All notable changes to Stux.Dev's `.github` organization repository are documented here.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
-and this project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+Each release's sections come in this order: Added, Changed, Fixed, Removed, Security, Deprecated. This project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## v26.11.06
+
+### Added
+
+- The organisation profile lists **Stux.Dev Services** (services.stux.dev) and **Stux.Dev Status** (status.stux.dev), and a
+  new **Our Templates** table lists Stux.Dev Soonpage, Maintenancepage, Servicepage and GitHub Pages Redirect, all by their
+  full names. The intro links stux.dev and services.stux.dev.
+- `CONTRIBUTING.md` has real code-style notes: leave the GitHup status table alone, use full service names, link only public
+  repositories, and use light/dark logos.
+
+### Changed
+
+- The logos in `profile/README.md` and `README.md` follow GitHub's light or dark theme (`logo-light`/`logo-dark`), as do the
+  footer icons. The footer's Stuxedo icon now comes from Stuxedo's media host instead of its GitHub avatar, and the footer
+  says "Stux.Group Brand of Companies".
+- Stuxs.Tools and Downl.one link their websites instead of their private repositories, which visitors couldn't open.
+  AutoScroll links its site, with its repository alongside.
+- `CONTRIBUTING.md` no longer mentions an `[Unreleased]` changelog section, which this repository doesn't use.
+- This changelog's intro gives the house section order instead of citing Keep a Changelog, whose order differs. The README's
+  copyright line names Stux.Group.
 
 ## v26.10.23
 
