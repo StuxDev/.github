@@ -4,6 +4,12 @@ All notable changes to Stux.Dev's `.github` organization repository are document
 
 Each release's sections come in this order: Added, Changed, Fixed, Removed, Security, Deprecated. This project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.08
+
+### Changed
+
+- The Stux.Dev Status row says services are "checked regularly" instead of "every 5 minutes". GitHub runs the 5-minute schedule best-effort and often far less often, so the copy no longer promises 5 minutes; the status page shows the real check rhythm.
+
 ## v26.11.06-1
 
 ### Added

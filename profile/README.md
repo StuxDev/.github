@@ -26,7 +26,7 @@ Stux.Dev exists to build small, useful, free tools without the ads, accounts, or
 | ⬇️&nbsp;[Downl.one](https://downl.one) | A media downloader: paste a link, get video or audio back, in the best available quality. |
 | 🔗&nbsp;[Sm.lol](https://sm.lol) | The internet, but smol: short links, bio pages and QR codes people actually click. |
 | 🗂️&nbsp;[Stux.Dev Services](https://services.stux.dev) | Every Stux.Dev service, tool and template in one place, with live status on each card ([repo](https://github.com/StuxDev/Services)). |
-| 💓&nbsp;[Stux.Dev Status](https://status.stux.dev) | Live status and 90-day uptime history for every Stux.Dev service, checked every 5 minutes ([repo](https://github.com/StuxDev/Status)). |
+| 💓&nbsp;[Stux.Dev Status](https://status.stux.dev) | Live status and 90-day uptime history for every Stux.Dev service, checked regularly ([repo](https://github.com/StuxDev/Status)). |
 
 ### Our Labs Projects
 
